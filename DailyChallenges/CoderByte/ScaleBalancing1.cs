@@ -120,11 +120,11 @@ namespace DailyChallenges.CoderByte
             return "not possible";
         }
 
-        static void Main()
-        {
-            // keep this function call here
-            Console.WriteLine(ScaleBalancing(new string[] { "Console.ReadLine()" }));
-        }
+        //static void Main()
+        //{
+        //    // keep this function call here
+        //    Console.WriteLine(ScaleBalancing(new string[] { "Console.ReadLine()" }));
+        //}
 
     }
 }
