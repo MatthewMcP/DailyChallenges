@@ -11,7 +11,7 @@ namespace DailyChallenges.ProjectEuler
     public class Multiples3And5_1
     {
 
-        static void Main()
+        static void Main1()
         {
             Console.WriteLine("Starting Multiples3And5_1 ");
 
