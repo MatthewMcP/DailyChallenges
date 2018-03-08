@@ -72,10 +72,9 @@ namespace DailyChallenges.CoderByte
             return KaprekarsMethod(result, iteration);
         }
 
-        static void Main()
-        {
-            Console.WriteLine(KaprekarsConstant(9831));
-        }
-
+        //static void Main()
+        //{
+        //    Console.WriteLine(KaprekarsConstant(9831));
+        //}
     }
 }

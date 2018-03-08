@@ -7,5 +7,6 @@
 
   <ItemGroup>
     <Folder Include="CoderByte\" />
+    <Folder Include="ProjectEuler\" />
   </ItemGroup>
 </Project>

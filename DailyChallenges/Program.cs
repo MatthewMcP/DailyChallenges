@@ -1,12 +1,24 @@
-﻿using System;
+﻿/* 
+ * 
+ */
 
-/*namespace DailyChallenges
+/* 
+ using System;
+namespace 
 {
-    class Program
+    public class 
     {
-        static void Main(string[] args)
+
+        static void Main()
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Starting...");
+
+
+
+            Console.WriteLine("End");
+            Console.ReadLine();
+
         }
     }
-}*/
+}
+*/
