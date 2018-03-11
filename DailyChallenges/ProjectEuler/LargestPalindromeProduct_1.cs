@@ -12,7 +12,7 @@ namespace DailyChallenges.ProjectEuler
     public class LargestPalindromeProduct
     {
 
-        static void Main()
+        static void Main1()
         {
 
 
