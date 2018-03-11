@@ -13,7 +13,7 @@ namespace DailyChallenges.ProjectEuler
     public class SmallestMultiple_1
     {
 
-        static void Main()
+        static void Main1()
         {
             Console.WriteLine("Starting...");
             for (int i = 1; i < int.MaxValue; i++)
