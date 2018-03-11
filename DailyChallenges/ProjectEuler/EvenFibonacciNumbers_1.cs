@@ -15,7 +15,7 @@ namespace DailyChallenges.ProjectEuler
     public class EvenFibonacciNumbers_1
     {
 
-        static void Main()
+        static void Main1()
         {
             Console.WriteLine("Starting...");
 
