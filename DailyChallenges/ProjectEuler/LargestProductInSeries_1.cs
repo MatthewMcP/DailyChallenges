@@ -8,7 +8,7 @@ namespace DailyChallenges.ProjectEuler
     public class LargestProductInSeries_1
     {
 
-        static void Main()
+        static void Main1()
         {
             Console.WriteLine("Starting...");
             long highestProduct = 0;
