@@ -18,7 +18,7 @@ namespace DailyChallenges.ProjectEuler
     public class SumSquareDifference_1
     {
 
-        static void Main()
+        static void Main1()
         {
             Console.WriteLine("Starting...");
 
