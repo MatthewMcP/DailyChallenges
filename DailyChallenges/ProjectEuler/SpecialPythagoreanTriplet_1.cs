@@ -8,7 +8,7 @@ namespace DailyChallenges.ProjectEuler
     public class SpecialPythagoreanTriplet_1
     {
 
-        static void Main()
+        static void Main1()
         {
             Console.WriteLine("Starting...");
 
@@ -29,9 +29,6 @@ namespace DailyChallenges.ProjectEuler
                                 finalA = a;
                                 finalB = b;
                                 finalC = c;
-                                Console.WriteLine("finalA " + finalA);
-                                Console.WriteLine("finalB " + finalB);
-                                Console.WriteLine("End");
                                 break;
                             }
                         }

@@ -9,4 +9,7 @@
     <Folder Include="CoderByte\" />
     <Folder Include="ProjectEuler\" />
   </ItemGroup>
+  <ItemGroup>
+    <None Remove="ProjectEuler\HighlyDivisibleTriangularNumber_1.cs" />
+  </ItemGroup>
 </Project>
